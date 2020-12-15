@@ -2,7 +2,6 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
 
-
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
@@ -53,23 +52,14 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 
 Nest is [MIT licensed](LICENSE).
 
-
-
-
-
-
-
 ## 学习
 
 [中文文档](https://docs.nestjs.cn/7/firststeps)
 
-[哔哩哔哩大学nestjs教学](https://www.bilibili.com/video/av68935258)
+[哔哩哔哩大学 nestjs 教学](https://www.bilibili.com/video/av68935258)
 
-
+[博客教学](https://zhuanlan.zhihu.com/p/71987482)
 
 ## 命令
 
--   使用 CLI 创建控制器，只需执行 `$ nest g controller cats` 命令。
-
-
-
+- 使用 CLI 创建控制器，只需执行 `$ nest g controller cats` 命令。
